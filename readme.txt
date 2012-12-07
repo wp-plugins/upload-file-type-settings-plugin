@@ -14,8 +14,7 @@ This plugin allows admins to specify additional file types that are allowed for 
 
 
 == Description ==
-By default, Wordpress only allows a very limited set of file types to be uploaded. This set is defined by a so called
-"white list". What's not on the white list can't be uploaded.
+By default, Wordpress only allows a very limited set of file types to be uploaded. This set is defined by a so called "white list". What's not on the white list can't be uploaded.
 
 This plugin allows you to extend this white list through a settings page.
 
